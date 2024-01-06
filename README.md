@@ -1,5 +1,6 @@
 # os
-osHw
+osHw1:
+
 Bu Java kodu, bir milyona kadar olan sayıları işleyerek asal sayıları, çift ve tek sayıları bulmayı amaçlayan çoklu threadler kullanarak bir örnek sunuyor. Kod, her bir thread'in belirli bir aralıktaki sayıları kontrol ettiği, asal sayıları, çift ve tek sayıları ayrı listelere eklediği bir yapıya sahip.
 Kod Analizi:
 Thread Yönetimi: Kod, belirli bir işi parçalara bölerek çözmek için birden fazla thread kullanır. Her bir thread, belirli bir aralıktaki sayıları işler.
